@@ -1,0 +1,40 @@
+h1
+{     
+    text-align: center;
+    padding: 2%;
+    background-color:rgb(248, 248, 221);
+    color:rgb(103, 64, 116);
+    font-weight: bolder;
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#img1
+{
+    height: 400px;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+#btn
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1%;
+    font-size: 20px;
+    font-weight: 550;
+    border-radius: 5px;
+    border-color:rgb(148, 94, 148);
+    letter-spacing: 2px;  
+}
+
+#btn:hover
+{
+    background-color: rgb(161, 86, 182);
+    color: rgb(255, 255, 255);
+    box-shadow: 0px 35px 80px 0px rgb(173, 41, 206);
+}
